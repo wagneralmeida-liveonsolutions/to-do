@@ -1,8 +1,10 @@
 {
-  "tasks": [
-    {
-      "id": 1,
-      "description": "Nome da tarefa"
+  "Task": {
+    "description": {
+       "loremWords": {
+        "minLength": 5,
+        "maxLength": 20
+      }
     }
-  ]
+  }
 }
